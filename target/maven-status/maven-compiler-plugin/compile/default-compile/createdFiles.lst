@@ -1,0 +1,8 @@
+com\ipn\mx\modelo\entidades\DatosGrafica.class
+com\ipn\mx\modelo\dto\ArticuloDTO.class
+com\ipn\mx\modelo\entidades\Usuario.class
+com\ipn\mx\modelo\dto\UsuarioDTO.class
+com\ipn\mx\modelo\entidades\Categoria.class
+com\ipn\mx\controlador\ArticuloServlet.class
+com\ipn\mx\utileria\NombreYExistenciaArticulo.class
+com\ipn\mx\modelo\entidades\Articulo.class
